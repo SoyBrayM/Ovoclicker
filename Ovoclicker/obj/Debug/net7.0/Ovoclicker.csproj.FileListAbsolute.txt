@@ -1,0 +1,15 @@
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/obj/Debug/net7.0/Ovoclicker.csproj.AssemblyReference.cache
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/obj/Debug/net7.0/Ovoclicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/obj/Debug/net7.0/Ovoclicker.AssemblyInfoInputs.cache
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/obj/Debug/net7.0/Ovoclicker.AssemblyInfo.cs
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/obj/Debug/net7.0/Ovoclicker.csproj.CoreCompileInputs.cache
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/bin/Debug/net7.0/Ovoclicker
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/bin/Debug/net7.0/Ovoclicker.deps.json
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/bin/Debug/net7.0/Ovoclicker.runtimeconfig.json
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/bin/Debug/net7.0/Ovoclicker.dll
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/bin/Debug/net7.0/Ovoclicker.pdb
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/obj/Debug/net7.0/Ovoclicker.dll
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/obj/Debug/net7.0/refint/Ovoclicker.dll
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/obj/Debug/net7.0/Ovoclicker.pdb
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/obj/Debug/net7.0/Ovoclicker.genruntimeconfig.cache
+/Users/bray/Library/CloudStorage/OneDrive-UPB/Tercer Semestre/POO/Proyecto/Ovoclicker/Ovoclicker/obj/Debug/net7.0/ref/Ovoclicker.dll
